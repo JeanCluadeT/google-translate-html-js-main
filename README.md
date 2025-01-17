@@ -75,4 +75,4 @@ Go through all the steps above, and you'll end up with duplicate code. Finally, 
 
 ## Copyright
 
-© 2024 | Google Translate with HTML and JS was written by [Mordad](https://mkhezerlou.ir).
+© 2024 | Google Translate with HTML and JS - Visit [Jean Claude](https://softechsupply.com/).
