@@ -4,7 +4,6 @@
 
 You can use it in all web programming languages (PHP, Python, C#, ...) ​​and in all their frameworks (Laravel, DJango, .Net, ...) for website. These codes are very well written so that you can use them easily.
 
-![Google translate with html and js](https://github.com/mordadam/google-translate-html-js/assets/170112182/6629aceb-6dba-4c47-892c-7cf936fdce3c)
 
 ## Features
 
@@ -75,4 +74,4 @@ Go through all the steps above, and you'll end up with duplicate code. Finally, 
 
 ## Copyright
 
-© 2024 | Google Translate with HTML and JS - Visit [Jean Claude](https://softechsupply.com/).
+© 2024 | Google Translate with HTML and JS - Visit [SoftTech Supply](https://softechsupply.com/).
